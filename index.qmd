@@ -4,23 +4,9 @@ title: "Welcome to Pavel's Profile"
 
 # Welcome
 
-I’m **Pavel**, a PhD candidate in **Public Affairs** at the **University of Texas at Dallas**. My research focuses on **collaborative governance**, **Human Resources**, **Non-profit management**, and **Public Administration**.
+I’m **Pavel**, a PhD candidate in **Public Affairs** at the **University of Texas at Dallas**.
 
-This site highlights my academic work, including research interests, publications, and ongoing projects.
+This is my personal website where I share my projects, experiences, and thoughts.
 
-## Research Interests
-
-- Collaborative Governance
-- Human Resources
-- Non-profit Management
-- Public Administration
-
-## Recent Publication
-
-**Book Review**  
-*The Politics of Collaborative Public Management: A Primer* by Robert Agranoff and Aleksey Kolpakov  
-Published by Routledge, 2023.  
-- DOI: [10.1111/padm.12990](https://doi.org/10.1111/padm.12990)  
-- Volume 102, Issue 2, June 2024, Pages 791-793.
 
 
