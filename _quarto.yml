@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Pavel's Profile"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme: flatly # Updated theme for a more colorful look
+    css: styles.css
+    toc: true
+
+

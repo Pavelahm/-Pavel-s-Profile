@@ -1,0 +1,14 @@
+---
+title: "About Me"
+---
+
+# About Me
+
+I’m a PhD student at the **University of Texas at Dallas**, specializing in **Public Affairs**. My research interests revolve around **collaborative governance**, **Human Resources**, **Non-profit management**, and **Public Administration**.
+
+## Recent Publication
+
+- **Md Eyasin Ul Islam Pavel** (2024). Book Review:  
+  *The Politics of Collaborative Public Management: A Primer* by Robert Agranoff and Aleksey Kolpakov.  
+  Published in *Public Administration*, Volume 102, Issue 2, Pages 791-793.  
+  DOI: [10.1111/padm.12990](https://doi.org/10.1111/padm.12990).
